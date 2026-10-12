@@ -1,0 +1,17 @@
+# Databricks and Jupyter temporary files
+.ipynb_checkpoints/
+.virtual_documents/
+*.pyc
+
+# Local IDEs (VS Code / PyCharm)
+.vscode/
+.idea/
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environmental variables / credentials
+.env
+*.secret
